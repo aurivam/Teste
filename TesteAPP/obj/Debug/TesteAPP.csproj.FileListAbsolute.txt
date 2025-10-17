@@ -1,0 +1,10 @@
+C:\Users\PcAuri\source\repos\TesteAPP\TesteAPP\bin\Debug\TesteAPP.exe.config
+C:\Users\PcAuri\source\repos\TesteAPP\TesteAPP\bin\Debug\TesteAPP.exe
+C:\Users\PcAuri\source\repos\TesteAPP\TesteAPP\bin\Debug\TesteAPP.pdb
+C:\Users\PcAuri\source\repos\TesteAPP\TesteAPP\obj\Debug\TesteAPP.csproj.AssemblyReference.cache
+C:\Users\PcAuri\source\repos\TesteAPP\TesteAPP\obj\Debug\TesteAPP.frmsplash.resources
+C:\Users\PcAuri\source\repos\TesteAPP\TesteAPP\obj\Debug\TesteAPP.Properties.Resources.resources
+C:\Users\PcAuri\source\repos\TesteAPP\TesteAPP\obj\Debug\TesteAPP.csproj.GenerateResource.cache
+C:\Users\PcAuri\source\repos\TesteAPP\TesteAPP\obj\Debug\TesteAPP.csproj.CoreCompileInputs.cache
+C:\Users\PcAuri\source\repos\TesteAPP\TesteAPP\obj\Debug\TesteAPP.exe
+C:\Users\PcAuri\source\repos\TesteAPP\TesteAPP\obj\Debug\TesteAPP.pdb

@@ -16,5 +16,22 @@ namespace TesteAPP
         {
             InitializeComponent();
         }
+
+        private void tmtsplash_Tick(object sender, EventArgs e)
+        {
+            if (pgbsplash.Value < 100)
+            {
+                pgbsplash.Value = pgbsplash.Value + 1;
+                lblnumero.Text = pgbsplash.Value.ToString() + "% ";
+
+            }
+            else
+            {
+                tmtsplash.Enabled = false;
+                frmlogin abrir= new frmlogin();
+                abrir.Show();
+                this.Hide();
+            }
+        }
     }
 }
